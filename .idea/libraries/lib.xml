@@ -4,6 +4,7 @@
       <root url="jar://D:/Card/lib/selenium-server-standalone-3.141.59.jar!/" />
       <root url="jar://D:/Card/lib/java-client-7.0.0.jar!/" />
       <root url="jar://D:/Card/lib/junit-4.10.jar!/" />
+      <root url="jar://D:/Card/lib/commons-lang3-3.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
