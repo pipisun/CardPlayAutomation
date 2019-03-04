@@ -30,6 +30,7 @@ public class NewCardRealDeviceTest {
 //        capabilities.setCapability("tabletOnly", "false");
 //        capabilities.setCapability("privateDevicesOnly", "false");
         capabilities.setCapability("appiumVersion", "1.10.1");
+//        capabilities.setCapability("tunnelIdentifier", "Unnamed tunnel");
 
         driver = new AndroidDriver<>(new URL(URL), capabilities);
 
